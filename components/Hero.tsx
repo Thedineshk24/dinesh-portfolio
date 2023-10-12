@@ -21,7 +21,7 @@ const Hero = (props: Props) => {
         <img
           className="rounded-full relative h-32 w-32 mx-auto object-cover"
           loading="lazy"
-          src="https://pbs.twimg.com/profile_images/1376554707393507328/r2k9Ruq3_400x400.jpg"
+          src="https://pbs.twimg.com/profile_images/1666403540829638656/kNit4nRR_400x400.jpg"
           alt={"my profile"}
         />
       </div>
